@@ -11,6 +11,8 @@ Cette soluce pose problème pour des liens...
 Une autre qui marche bien est d'enlever le point de raw.github : 
 https://rawgithub.com/sensor56/testio/master/test.svg
 
+![mon beau svg](https://rawgithub.com/sensor56/testio/master/test.svg)
+
 Autre essai : 
 
 ![mon beau svg](http://sensor56.github.io/testio/blob/master/test.svg)
