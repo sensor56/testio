@@ -15,6 +15,8 @@ Il est semble-t-il assez simple de créer des pages de type "texte" avec Jekyll.
 
 
 Sinon, il est tout simplement possible d'éditer les fichier comme celui-ci est d'insérer des images et ce genre de chose, en Markdown. 
+Un fichier markdown doit se terminer avec le suffixe *.md
+
 
 ![Alt text](/path/to/img.jpg)
 
