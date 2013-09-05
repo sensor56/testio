@@ -2,6 +2,7 @@ testio
 ======
 
 Test de page web avec github... 
+Infos sur les pages github ici : https://help.github.com/categories/20/articles
 
 dans un projet : les pages sont stockées dans la branche gh-pages
 
