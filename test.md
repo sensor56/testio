@@ -5,3 +5,9 @@ Un essai d'image :
 
 POur voir un fichier SVG à partir de son fichier github : 
 http://htmlpreview.github.io/?https://github.com/sensor56/testio/blob/master/test.svg
+
+Cette soluce pose problème pour des liens... 
+
+Une autre qui marche bien est d'enlever le point de raw.github : 
+https://rawgithub.com/sensor56/testio/master/test.svg
+
