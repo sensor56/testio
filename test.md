@@ -14,3 +14,7 @@ https://rawgithub.com/sensor56/testio/master/test.svg
 Autre essai : 
 
 ![mon beau svg](http://sensor56.github.io/testio/blob/master/test.svg)
+Fonctionne si présent dans branche gh-pages ? 
+
+
+doc ici : http://stackoverflow.com/questions/13808020/include-an-svg-hosted-on-github-in-markdown
