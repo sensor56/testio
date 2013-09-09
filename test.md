@@ -11,7 +11,7 @@ Cette soluce pose problème pour des liens...
 Une autre qui marche bien est d'enlever le point de raw.github : 
 https://rawgithub.com/sensor56/testio/master/test.svg
 
-<a href="" target="_blank">https://rawgithub.com/sensor56/testio/master/test.svg</a>
+<a href="" target="_blank">https://rawgithub.com/sensor56/testio/master/test.svg</a> (HTML)
 
 ![mon beau svg](https://rawgithub.com/sensor56/testio/master/test.svg)
 
