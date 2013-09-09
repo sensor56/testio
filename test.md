@@ -2,7 +2,7 @@ Un essai d'image :
 
 essai en relatif   
 ![image locale](images/en_travaux.gif)  
-![image locale](/testio/blob/master/images/en_travaux.gif)
+![image locale](/testio/blob/master/images/en_travaux.gif) 
 
 
 
