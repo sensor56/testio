@@ -1,5 +1,7 @@
 Un essai d'image :
 
+![1_icon](https://f.cloud.github.com/assets/1547478/1111021/4a054d02-199f-11e3-813f-76af21b66d59.png)
+
 essai en relatif   
 ![image locale](images/en_travaux.gif)
 
