@@ -1,16 +1,11 @@
 Un essai d'image :
 
 essai en relatif   
-<<<<<<< HEAD
 ![image locale](images/en_travaux.gif)
 
 ![ma belle image](https://raw.github.com/sensor56/testio/master/images/en_travaux.gif)
-=======
-![image locale](images/en_travaux.gif)  
-![image locale](/testio/blob/master/images/en_travaux.gif) 
 
 
->>>>>>> c7e6b191cfe677855ccc1dac0f1fcd26b33693e9
 
 ![ma belle image](http://www.mon-club-elec.fr/mes_images/clipart/logo_pyduino.png)
 
