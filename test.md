@@ -11,6 +11,8 @@ Cette soluce pose problème pour des liens...
 Une autre qui marche bien est d'enlever le point de raw.github : 
 https://rawgithub.com/sensor56/testio/master/test.svg
 
+<a href="" target="_blank">https://rawgithub.com/sensor56/testio/master/test.svg</a>
+
 ![mon beau svg](https://rawgithub.com/sensor56/testio/master/test.svg)
 
 Autre essai : 
@@ -20,3 +22,5 @@ Fonctionne si présent dans branche gh-pages ?
 
 
 doc ici : http://stackoverflow.com/questions/13808020/include-an-svg-hosted-on-github-in-markdown
+
+<a href="" target="_blank">https://rawgithub.com/sensor56/testio/master/test.svg</a>
