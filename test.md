@@ -2,6 +2,8 @@ Un essai d'image :
 
 ![1_icon](https://f.cloud.github.com/assets/1547478/1111021/4a054d02-199f-11e3-813f-76af21b66d59.png)
 
+![couleurs](https://cloud.githubusercontent.com/assets/1547478/6209381/b0532d04-b5c5-11e4-86f4-ccdf35be6c49.png)
+
 essai en relatif   
 ![image locale](images/en_travaux.gif)
 
